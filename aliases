@@ -1,0 +1,4 @@
+# pinglog aliases
+alias pinglog-today='cat /mnt/sda1/pinglog/`date +%Y-%m-%d`.txt'
+alias pinglog-list='ls /mnt/sda1/pinglog | sed "s/.txt//"'
+alias pinglog-now='/mnt/sda1/pinglog.sh'
