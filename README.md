@@ -1,4 +1,4 @@
-# pinglog
+# Pinglog
 
 ### Installing
 * Download the project and move it in its final directory  
